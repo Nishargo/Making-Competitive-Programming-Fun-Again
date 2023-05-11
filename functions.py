@@ -11,5 +11,11 @@ print(math.copysign(3,-98.4) #This should return -3.0
 
 # function to return the factorial of number, it only accepts positive integers.
 print(math.factorial(5))
+      
+# function to round a number upward (imagine a ceiling) to its nearest integer
+print(math.ceil(1.8))
+      
+# function to round a number down (imagine a floor) to its nearest integer
+print(math.floor(0.2))
 
 
