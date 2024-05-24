@@ -10,18 +10,17 @@ print('Absolute value of the given integer is', abs(integer))
 print(math.copysign(3,-98.4) #This should return -3.0
 
 # function to return the factorial of number, it only accepts positive integers.
-print(math.factorial(5))
+print(math.factorial(5)) #This should return 120
       
 # function to round a number upward (imagine a ceiling) to its nearest integer
-print(math.ceil(1.8))
+print(math.ceil(1.8)) #This should return 2
       
 # function to round a number down (imagine a floor) to its nearest integer
-print(math.floor(0.2))
+print(math.floor(1.2)) #This should return 1
 
 # max() function to get maximum value from a sequence of a list, tuple, or set
 x = [4, 5, 6, 7, 8]
 y = max(x)
-print(y)    
-# Output: 8
+print(y) #This should return 8
 
 
