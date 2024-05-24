@@ -18,4 +18,10 @@ print(math.ceil(1.8))
 # function to round a number down (imagine a floor) to its nearest integer
 print(math.floor(0.2))
 
+# max() function to get maximum value from a sequence of a list, tuple, or set
+x = [4, 5, 6, 7, 8]
+y = max(x)
+print(y)    
+# Output: 8
+
 
