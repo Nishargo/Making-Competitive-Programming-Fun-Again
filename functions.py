@@ -18,6 +18,9 @@ print(math.ceil(1.8)) #This should return 2
 # function to round a number down (imagine a floor) to its nearest integer
 print(math.floor(1.2)) #This should return 1
 
+#function to find the greatest common divisor of the two integers
+print (math.gcd(3, 6)) #This should return 3
+
 # max() function to get maximum value from a sequence of a list, tuple, or set
 x = [4, 5, 6, 7, 8]
 y = max(x)
