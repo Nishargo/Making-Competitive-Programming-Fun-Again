@@ -11,3 +11,5 @@ A list that we will go through to refresh our knowledge:
 5. Backtracking
 6. Graph algorithms (e.g., depth-first search, breadth-first search, Dijkstra’s algorithm)
 7. Data structures (e.g., arrays, linked lists, stacks, queues, hash tables, trees, heaps)
+
+The list might be edited, modified, or merged.
