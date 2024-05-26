@@ -21,6 +21,9 @@ print(math.floor(1.2)) #This should return 1
 #function to find the greatest common divisor of the two integers
 print (math.gcd(3, 6)) #This should return 3
 
+#function to return the remainder of x/y
+print(math.fmod(20, 4)) #This should return 0
+
 # max() function to get maximum value from a sequence of a list, tuple, or set
 x = [4, 5, 6, 7, 8]
 y = max(x)
