@@ -24,6 +24,9 @@ print (math.gcd(3, 6)) #This should return 3
 #function to return the remainder of x/y
 print(math.fmod(20, 4)) #This should return 0
 
+#function to return the square root of a number
+print(math.sqrt(2)) #This should return 1.4142135623730951
+
 # max() function to get maximum value from a sequence of a list, tuple, or set
 x = [4, 5, 6, 7, 8]
 y = max(x)
