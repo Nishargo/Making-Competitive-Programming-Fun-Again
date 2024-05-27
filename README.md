@@ -13,3 +13,5 @@ A list that we will go through to refresh our knowledge:
 7. Data structures (e.g., arrays, linked lists, stacks, queues, hash tables, trees, heaps)
 
 The list might be edited, modified, or merged.
+
+To grab the foundations, you can enjoy my video tutorials: https://www.youtube.com/playlist?list=PLR1qLN5Rl1fSS8-V8NNQJHq-ZS2OZRFnA
