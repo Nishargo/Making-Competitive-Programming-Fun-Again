@@ -1,1 +1,11 @@
+# The Fibonacci Sequence is a series of numbers that has a pattern where the next number can be found by summing the two numbers before it.
+Hee's an example:
 
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,...
+
+In the sequence above, We got 2 by adding the two numbers before it (1+1),
+Then we got 3 by summing the two numbers before it (1+2),
+We got 5 by adding 2+3
+It goes on...
+
+An exercise for you: find how we got 55 in the sequence?
