@@ -12,6 +12,8 @@ A list that we will go through to refresh our knowledge:
 6. Graph algorithms (e.g., depth-first search, breadth-first search, Dijkstra’s algorithm)
 7. Data structures (e.g., arrays, linked lists, stacks, queues, hash tables, trees, heaps)
 
+I have also included commonly used functions in terms of CP.
+
 The list might be edited, modified, or merged.
 
 To grab the foundations, you can enjoy my video tutorials: https://www.youtube.com/playlist?list=PLR1qLN5Rl1fSS8-V8NNQJHq-ZS2OZRFnA
