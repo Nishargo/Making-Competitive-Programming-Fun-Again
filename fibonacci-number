@@ -9,3 +9,25 @@ We got 5 by adding 2+3
 It goes on...
 
 An exercise for you: find how we got 55 in the sequence?
+
+   
+Function to find nth Fibonacci Number
+We are going to consider 0 and 1 as the first two Fibonacci numbers
+
+def fibonacci(n):
+    x = 0
+    y = 1
+    if n < 0:
+        print("Incorrect input. Please insert a positive number.")
+    elif n == 0:
+        return x
+    elif n == 1:
+        return y
+    else:
+        for i in range(2, n+1):
+            z = x + y
+            x = y
+            y = z
+        return y
+  
+print(fibonacci(5))
