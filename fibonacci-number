@@ -54,4 +54,4 @@ def fibonacci(n):
   
 print(fibonacci(5))
 
-Exercise: what would be the output?
+Exercise: The Fibonacci sequence also works for terms below 0. Can you write a program for that?
