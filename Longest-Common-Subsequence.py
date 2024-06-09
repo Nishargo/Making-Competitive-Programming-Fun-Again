@@ -2,3 +2,5 @@
 # In a given set of sequences, the goal is to find a common subsequence of all the sequences of maximal length.
 # Example: "ace" is a subsequence of "abcdef".
 # We will use recursion to solve the problem.
+# At first, we will create a recursive function.
+
