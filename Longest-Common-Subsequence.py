@@ -4,5 +4,5 @@
 # We will use recursion to solve the problem.
 # At first, we will create a recursive function.
 # Then we will decide on the conditions based on the first characters of the strings.
-# Depending on the conditions, we weill run the next recursive function.
+# Depending on the conditions, we will run the next recursive function.
 
