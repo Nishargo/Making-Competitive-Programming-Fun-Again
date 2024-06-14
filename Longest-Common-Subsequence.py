@@ -13,6 +13,9 @@ def lcs(X, Y, m, n):
     if m == 0 or n == 0:
         return 0
       # Recursive case
+      # X[m-1] == Y[n-1]: This condition checks if the last characters of the current substrings X and Y are the same. 
+      # The indices m-1 and n-1 are used because string indices in Python are zero-based.
+
     elif X[m-1] == Y[n-1]:
         return 1 + lcs(X, Y, m-1, n-1)
     else:
