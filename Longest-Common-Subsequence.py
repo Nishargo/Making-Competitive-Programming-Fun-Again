@@ -16,6 +16,9 @@ def lcs(X, Y, m, n):
       # X[m-1] == Y[n-1]: This condition checks if the last characters of the current substrings X and Y are the same. 
       # The indices m-1 and n-1 are used because string indices in Python are zero-based.
 
+      # If the last characters of both sequences match (X[m-1] == Y[n-1]), they are part of the LCS. 
+      # The function returns 1 (for the matching character) plus the LCS of the remaining subsequences (m-1 and n-1).
+
     elif X[m-1] == Y[n-1]:
         return 1 + lcs(X, Y, m-1, n-1)
     else:
