@@ -21,6 +21,9 @@ def lcs(X, Y, m, n):
 
     elif X[m-1] == Y[n-1]:
         return 1 + lcs(X, Y, m-1, n-1)
+     # If the last characters do not match, the function returns the maximum LCS obtained by either:
+     # Excluding the last character of the first sequence (lcs(X, Y, m, n-1))
+     # Excluding the last character of the second sequence (lcs(X, Y, m-1, n))
     else:
         return max(lcs(X, Y, m, n-1), lcs(X, Y, m-1, n))
 
