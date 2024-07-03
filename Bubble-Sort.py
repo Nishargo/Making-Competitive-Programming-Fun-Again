@@ -1,3 +1,15 @@
+"""
+Bubble sort works by repeatedly stepping through the list, comparing adjacent items and swapping them if they are in the wrong order.
+Each pass through the list places the next largest element in its correct position, bubbling it to the end of the list.
+
+On the first pass, the largest element is moved to its correct position at the end of the list.
+On the second pass, the second-largest element is moved to its correct position, and so on.
+
+After each pass, the last i elements are already sorted.
+Hence, in the i-th pass, there is no need to compare the last i elements again.
+The inner loop runs from the start of the list to n - i - 1, effectively ignoring the last i elements which are already sorted.
+"""
+
 def bubble_sort(arr):
     n = len(arr)
     # Traverse through all array elements
