@@ -1,6 +1,8 @@
 # let's consider an example: the Coin Change Problem.
 def coin_change_greedy(coins, amount):
     # Sort the coins in descending order
+    # The reverse=True parameter in the sort function is used to sort the list in descending order.  
+    # For example, if coins is [1, 2, 5, 10, 25], it will be sorted to [25, 10, 5, 2, 1].
     coins.sort(reverse=True)
     
     # Initialize the result list
