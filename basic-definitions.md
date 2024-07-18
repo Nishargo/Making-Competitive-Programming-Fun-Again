@@ -8,6 +8,8 @@ Variable: Variable is a storage location that is identified by a memory address.
 
 Code: Instructions that are written in any kind of programming language that a computer can execute.
 
+Loop: A sequence of instructions that is repeated continuously until it meets a certain condition.
+
 Debugging: The process of identifying, analyzing, and removing bugs from a given code is known as debugging.
 
 Time complexity: Time complexity is a kind of computational complexity that tells us the time required to execute an algorithm. It focuses on the running time of it. The amount of time taken for each statement to complete is equal to the time complexity of an algorithm.
