@@ -1,8 +1,8 @@
 # Intro
 Competitive Programming is a fun way to test your intuitive knowledge about the algorithms you have learned and practiced. 
-It doesn't matter if you are a beginner or an expert, if you would like to make your intuition stronger, you must practice.
+It does not matter if you are a beginner or an expert, if you would like to make your intuition stronger, you must practice.
 
-A list that we will go through to refresh our knowledge:
+A list that we will go through to refresh our knowledge: 
 
 1. Dynamic programming
 2. Searching algorithms (e.g., linear search, binary search)
