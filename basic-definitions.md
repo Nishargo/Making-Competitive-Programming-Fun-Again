@@ -20,6 +20,6 @@ Space Complexity: Space complexity refers to the total space that is taken up by
 
 Space complexity = Auxiliary space + Input space.
 
-Auxiliary space = the extra or temporary space that an algorithm uses.
+Auxiliary space = the extra or temporary space that an algorithm uses. 
 
 
