@@ -1,5 +1,5 @@
 # Intro
-Competitive Programming is a fun way to test your intuitive knowledge about the algorithms you have learned and practiced. 
+Competitive Programming is a fun way to test your intuitive knowledge about the algorithms you have learned and practiced.
 It does not matter if you are a beginner or an expert, if you would like to make your intuition stronger, you must practice.
 
 A list that we will go through to refresh our knowledge: 
