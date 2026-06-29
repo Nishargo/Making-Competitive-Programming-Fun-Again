@@ -37,4 +37,4 @@ Practice actively:
 - Focus on understanding why an approach works, not just memorizing it
 
 # Learning resources
-You can follow along with my video tutorial: [Competitive Programming Video Playlist](https://www.youtube.com/playlist?list=PLR1qLN5Rl1fSS8-V8NNQJHq-ZS2OZRFnA)
+You can follow along with my video tutorial: [Computer Science: Foundations Playlist](https://www.youtube.com/playlist?list=PLR1qLN5Rl1fSS8-V8NNQJHq-ZS2OZRFnA)
