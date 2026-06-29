@@ -147,11 +147,7 @@ DP stores results:
 
 f(1), f(2), f(3)… computed once
 
-DP is essentially:
-
-“Remember what you already solved”
-
-It transforms exponential solutions into polynomial ones.
+DP transforms exponential solutions into polynomial ones by recognizing that the same subproblems appear repeatedly. This allows us to solve each subproblem exactly once and store the result for future use.
 
 10. Graph Thinking (Relationships)
 
