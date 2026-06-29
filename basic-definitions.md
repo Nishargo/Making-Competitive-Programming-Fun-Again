@@ -74,7 +74,7 @@ In Competitive Programming, functions are used to:
 - Break large problems into smaller logical parts
 - Avoid rewriting logic repeatedly (like DFS, BFS, binary search)
 - Improve readability under time pressure
-- 
+
 Example intuition:
 Instead of rewriting graph traversal logic every time, you define:
 
