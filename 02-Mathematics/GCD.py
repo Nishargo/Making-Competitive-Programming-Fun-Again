@@ -4,7 +4,7 @@ GCD (Greatest Common Divisor) using Euclid’s Algorithm
 -------------------------------------------------------
 PROBLEM
 -------------------------------------------------------
-Find the greatest number that divides both a and b exactly.
+Find the greatest number that divides both a and b.
 
 Example:
 GCD(48, 18) = 6
